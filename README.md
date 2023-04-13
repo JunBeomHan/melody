@@ -9,7 +9,7 @@ Simple melody Cue!
 
 int main() {
     initMelody(UBUNTU_OS);
-    
+
     playMelody(DO);
     playMelody(RE);
     playMelody(MI);
@@ -20,3 +20,4 @@ int main() {
     playMelody(DO_OCTAVE);
 }
 ```
+
